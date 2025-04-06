@@ -90,9 +90,9 @@ I'm **[`mobzg0d`](https://www.youtube.com/@mobzg0d)**, a hacker & Security Resea
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xSupremo&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/0xSupremo/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=0xSupremo&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/0xSupremo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSupremo&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobzg0d&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/mobzg0d/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mobzg0d&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/mobzg0d/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobzg0d&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
 
