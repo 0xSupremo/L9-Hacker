@@ -15,13 +15,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`Supremo`](https://www.youtube.com/@0xSupremo)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
+I'm **[`mobzg0d`](https://www.youtube.com/@mobzg0d)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
 
 <details>
   <summary>More about me</summary>
 
-- **Name**: ?
+- **Name**: mobz
 - **From**: Colombia
 - **Bug Hunter** | **Penetration Tester**
 - I have experience in Cracking, Reverse Engineering, Bug Hunting, Pentesting, Social engineering.
