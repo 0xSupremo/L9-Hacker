@@ -15,13 +15,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`mobzg0d`](https://www.youtube.com/@mobzg0d)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
+I'm **[`rootking`](https://www.youtube.com/@rootking007)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
 
 <details>
   <summary>More about me</summary>
 
-- **Name**: mobz
+- **Name**: rootking
 - **From**: Colombia
 - **Bug Hunter** | **Penetration Tester**
 - I have experience in Cracking, Reverse Engineering, Bug Hunting, Pentesting, Social engineering.
@@ -90,9 +90,9 @@ I'm **[`mobzg0d`](https://www.youtube.com/@mobzg0d)**, a hacker & Security Resea
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobzg0d&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/mobzg0d/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mobzg0d&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/mobzg0d/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobzg0d&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootking007&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/rootking007/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=rootking007&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/rootking007/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootking007&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
 
